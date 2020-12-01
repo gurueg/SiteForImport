@@ -1,0 +1,9 @@
+#ignore all tmp folders
+/tmp/
+
+#ignore all _old, _backup files
+*_old*
+*_backup*
+
+Thumbs.db
+.DS_Store
